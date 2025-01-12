@@ -28,7 +28,7 @@ Start the development server:
 Bash
 
 flask run
-The application will be accessible at http://localhost:5000 by default.
+The application will be accessible at http://localhost:8888 by default.
 Functionality
 The application provides two main functionalities:
 
